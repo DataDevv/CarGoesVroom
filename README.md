@@ -1,4 +1,4 @@
-# Delivery Blitz
+# Dasher Blitz
 Our project is a driving simulator game that will allow for a single-driver vehicle that will be able to 
 detect and avoid collisions in a realistic way. It would also include playability features to allow users to improve in speed 
 and agility performance over time and through multiple runs of the game. The ability to improve in game mechanics and achieve
