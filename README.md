@@ -24,18 +24,6 @@ As you successfully complete orders, you earn money, which can be used to upgrad
 
 ## Installation Guide
 
-(Your installation guide should go here. Include any system requirements, how to download, install and run the game, and any troubleshooting tips.)
-
-## Contribution Guidelines
-
-(If your project is open to contributions, provide guidelines on how people can contribute. You may want to include information on submitting pull requests, any coding style guides you adhere to, etc.)
-
-## Contact
-
-Feel free to reach out if you have any questions or just want to connect:
-
-- Creator: Your Name
-- Email: your.email@example.com
-- LinkedIn: [Your Name](your LinkedIn URL)
+No dependencies are required as we will be deploying the game as an .exe for anyone to download.
 
 Enjoy your journey in Dasher Blitz - where you're small but your deliveries are mighty!
