@@ -34,6 +34,7 @@ In Dasher Blitz, you navigate as a miniature car in an enormous world. Your goal
 ## Installation Guide
 
 No dependencies are required as we will be deploying the game as an .exe for anyone to download.
+https://www.dropbox.com/s/8hjpvavwzk57t26/GameBuild.zip?dl=0
 
 ## System Requirements
 
