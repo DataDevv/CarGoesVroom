@@ -9,6 +9,7 @@ Welcome to Dasher Blitz, a game that takes you into a giant world as a small car
 - [Features](#features)
 - [Installation Guide](#installation-guide)
 - [System Requirements](#system-requirements)
+- [Documentation](#documentation)
 - [Contact](#contact)
 
 ## About The Game
