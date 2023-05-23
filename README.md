@@ -47,6 +47,8 @@ To ensure the best gaming experience, make sure your system meets the following 
 ## Documentation
 Link to documentation: https://docs.google.com/document/d/1shbsqIuoLkgdIzQ6ImQmLC_z-jVfNeQJvn1ey2xmyXE/edit?usp=sharing
 
+For Code Freeze - How we addressed peer reviews: https://docs.google.com/document/d/1MVqdm5E6S8OLzk6Qxb_lu_GfmMEd1rLIpDxcN7R2fiA/edit?usp=sharing
+
 ## Contact
 
 Feel free to reach out if you have any questions or just want to connect:
