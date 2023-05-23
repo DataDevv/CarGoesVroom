@@ -1,4 +1,4 @@
-![Logo]([URL-TO-LOGO](https://github.com/DataDevv/CarGoesVroom/blob/main/DataflowBig.png))
+![Logo](https://github.com/DataDevv/CarGoesVroom/blob/main/DataflowBig.png)
 
 # Dasher Blitz
 
