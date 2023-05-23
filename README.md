@@ -1,3 +1,5 @@
+![Logo](URL-TO-LOGO)
+
 # Dasher Blitz
 
 Welcome to Dasher Blitz, a game that takes you into a giant world as a small car with a big mission! Created with the robust Unreal Engine 5.1, this game offers an immersive and visually stunning gaming experience. 
@@ -6,7 +8,6 @@ Welcome to Dasher Blitz, a game that takes you into a giant world as a small car
 - [About The Game](#about-the-game)
 - [Features](#features)
 - [Installation Guide](#installation-guide)
-- [Contribution Guidelines](#contribution-guidelines)
 - [Contact](#contact)
 
 ## About The Game
@@ -25,5 +26,14 @@ As you successfully complete orders, you earn money, which can be used to upgrad
 ## Installation Guide
 
 No dependencies are required as we will be deploying the game as an .exe for anyone to download.
+
+## Contact
+
+Feel free to reach out if you have any questions or just want to connect:
+
+- Creator: Dataflow Games
+- Website: https://www.dataflowgames.com/
+
+As you successfully complete orders, you earn money, which can be used to upgrade your current car or purchase a new one. Will you be the fastest delivery car in this giant world? Time to gear up and find out!
 
 Enjoy your journey in Dasher Blitz - where you're small but your deliveries are mighty!
