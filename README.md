@@ -35,6 +35,9 @@ To ensure the best gaming experience, make sure your system meets the following 
 - **Memory**: 8 GB RAM
 - **Video Card/DirectX Version**: DirectX 11 or DirectX 12 compatible graphics card
 
+## Documentation
+Link to documentation: https://docs.google.com/document/d/1shbsqIuoLkgdIzQ6ImQmLC_z-jVfNeQJvn1ey2xmyXE/edit?usp=sharing
+
 ## Contact
 
 Feel free to reach out if you have any questions or just want to connect:
