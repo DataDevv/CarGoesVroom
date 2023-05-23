@@ -8,6 +8,7 @@ Welcome to Dasher Blitz, a game that takes you into a giant world as a small car
 - [About The Game](#about-the-game)
 - [Features](#features)
 - [Installation Guide](#installation-guide)
+- [System Requirements](#system-requirements)
 - [Contact](#contact)
 
 ## About The Game
@@ -24,6 +25,15 @@ In Dasher Blitz, you navigate as a miniature car in a world that seems enormous.
 ## Installation Guide
 
 No dependencies are required as we will be deploying the game as an .exe for anyone to download.
+
+## System Requirements
+
+To ensure the best gaming experience, make sure your system meets the following specifications:
+
+- **Operating System**: Windows 10 64-bit
+- **Processor**: Quad-core Intel or AMD, 2.5 GHz or faster
+- **Memory**: 8 GB RAM
+- **Video Card/DirectX Version**: DirectX 11 or DirectX 12 compatible graphics card
 
 ## Contact
 
