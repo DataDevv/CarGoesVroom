@@ -7,6 +7,7 @@ Welcome to Dasher Blitz, a game that takes you into a giant world as a small car
 ## Table of Contents
 - [About The Game](#about-the-game)
 - [Features](#features)
+- [Requirements](#requirements)
 - [Installation Guide](#installation-guide)
 - [System Requirements](#system-requirements)
 - [Documentation](#documentation)
@@ -22,6 +23,13 @@ In Dasher Blitz, you navigate as a miniature car in an enormous world. Your goal
 - **Lumen Lighting**: Experience the magic of realistic lighting with Unreal Engine's Lumen technology. Each scene is meticulously lit, creating an impressive visual spectacle.
 - **Custom Collision Detection System**: We've developed a unique collision detection system using Unreal Engine blueprints. This system helps guide players around obstacles, making the game more user-friendly.
 - **Economic System**: Earn money from your deliveries and use it to upgrade your car or buy a new one. Feel the thrill of progression as your vehicle transforms from a humble start to a speed beast!
+
+## Requirements
+
+- We were required to implement our collision detection system to assist users during gameplay.
+- We were required to add at least two playable vehicles.
+- We were required to have realistic physics.
+- We were required to have upgradeable cars to improve their speed and handling
 
 ## Installation Guide
 
