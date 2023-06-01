@@ -24,16 +24,9 @@ In Dasher Blitz, you navigate as a miniature car in an enormous world. Your goal
 - **Custom Collision Detection System**: We've developed a unique collision detection system using Unreal Engine blueprints. This system helps guide players around obstacles, making the game more user-friendly.
 - **Economic System**: Earn money from your deliveries and use it to upgrade your car or buy a new one. Feel the thrill of progression as your vehicle transforms from a humble start to a speed beast!
 
-## Requirements
-
-- We were required to implement our collision detection system to assist users during gameplay.
-- We were required to add at least two playable vehicles.
-- We were required to have realistic physics.
-- We were required to have upgradeable cars to improve their speed and handling
-
 ## Installation Guide
 
-No dependencies are required as we will be deploying the game as an .exe for anyone to download.
+Download the file below, and unzip the file to wherever you want to store the game. To play, run the .exe file contained inside of the unzipped folder.
 https://www.dropbox.com/s/8hjpvavwzk57t26/GameBuild.zip?dl=0
 
 ## System Requirements
@@ -47,8 +40,6 @@ To ensure the best gaming experience, make sure your system meets the following 
 
 ## Documentation
 Link to documentation: https://docs.google.com/document/d/1shbsqIuoLkgdIzQ6ImQmLC_z-jVfNeQJvn1ey2xmyXE/edit?usp=sharing
-
-For Code Freeze - How we addressed peer reviews: https://docs.google.com/document/d/1MVqdm5E6S8OLzk6Qxb_lu_GfmMEd1rLIpDxcN7R2fiA/edit?usp=sharing
 
 ## Contact
 
