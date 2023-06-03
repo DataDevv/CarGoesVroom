@@ -25,8 +25,8 @@ In Dasher Blitz, you navigate as a miniature car in an enormous world. Your goal
 
 ## Installation Guide
 
-Download the file below, and unzip the file to wherever you want to store the game. To play, run the .exe file contained inside of the unzipped folder.
-https://www.dropbox.com/s/8hjpvavwzk57t26/GameBuild.zip?dl=0
+To install, go to the dropbox link below, download the .rar file and unzip to wherever you want to save the contents of the game. To play, simply navigate into the Windows folder, and run the Delivery Blitz Application.
+https://www.dropbox.com/s/ycvzb85lj1oixu9/DasherBlitz.rar?dl=0
 
 ## System Requirements
 
